@@ -15,7 +15,7 @@ function scuberGreetingForFeet(feet){
     return city == 'NYC' ? 'Ok, sounds good.' : 'No go.';
   }
 
-  function switchOnCharmFromTip(tip){  
+  function switchOnCharmFromTip(tip){
     let response;
     swith(tip) {
       case 'generous':
