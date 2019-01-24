@@ -17,13 +17,19 @@ function scuberGreetingForFeet(feet){
 
   function switchOnCharmFromTip(tip){
     let response;
-    swith(tip) {
+    switch (tip) {
+      case expression:
+
+        break;
+      default:
+
+    }(tip) {
       case 'generous':
       response = 'Thank you so much.';
       break;
       case 'not as genrous':
       response = 'Thank you.';
-      break;
+       break;
       default:
       response = 'Bye.';
     }
