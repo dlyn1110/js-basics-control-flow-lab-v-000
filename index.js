@@ -10,3 +10,11 @@ function scuberGreetingForFeet(feet){
     }
     return response;
   }
+
+  function ternaryCheckCity(tip) {
+    let response;
+    swith(tip) {
+      case 'generous':
+      response = 'Thank you so much.';
+    }
+  }
