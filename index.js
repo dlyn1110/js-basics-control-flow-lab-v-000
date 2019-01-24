@@ -11,7 +11,11 @@ function scuberGreetingForFeet(feet){
     return response;
   }
 
-  function ternaryCheckCity(tip) {
+  function ternaryCheckCity(city) {
+    return city == 'NYC' ? 'Ok, sounds good.' : 'No go.';
+  }
+
+  fucntion switchOnCharmFromTip(tip){  
     let response;
     swith(tip) {
       case 'generous':
