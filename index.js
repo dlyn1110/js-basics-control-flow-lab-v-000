@@ -10,5 +10,3 @@ function scuberGreetingForFeet(feet){
   }
   return respnse;
 }
-
- 
