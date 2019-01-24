@@ -16,5 +16,12 @@ function scuberGreetingForFeet(feet){
     swith(tip) {
       case 'generous':
       response = 'Thank you so much.';
+      break;
+      case 'not as genrous':
+      response = 'Thank you.';
+      breka;
+      default:
+      response = 'Bye.';
     }
+    return response
   }
