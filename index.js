@@ -21,7 +21,7 @@ function scuberGreetingForFeet(feet){
     case 'generous':
       response = 'Thank you so much.';
       break;
-      case 'not as genrous':
+      case 'not as generous':
       response = 'Thank you.';
        break;
       default:
