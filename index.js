@@ -23,7 +23,7 @@ function scuberGreetingForFeet(feet){
       break;
       case 'not as genrous':
       response = 'Thank you.';
-      breka;
+      break;
       default:
       response = 'Bye.';
     }
