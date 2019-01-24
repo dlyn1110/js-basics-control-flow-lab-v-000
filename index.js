@@ -1,5 +1,5 @@
 // Write your code in this file!
-funcyion scuberGreetingForFeet(feet){
+function scuberGreetingForFeet(feet){
   let response;
   if (feet < 400){
     response = 'This one is on me!';
